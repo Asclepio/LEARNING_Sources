@@ -3,14 +3,9 @@
 ## 0- Git
 Todo lo que hacen no sirve de nada si no saben manejar GIT
 
-https://www.udacity.com/co…/how-to-use-git-and-github--ud775
+https://www.udacity.com/course/how-to-use-git-and-github--ud775
 
 ## 1- FreeCodeCamp - Ingles
-Da Certificado.
-
-Es la mas trillada, muchos la conoceran, y sino la van a tener que conocer. 
-No sabes NADA, terminas aprendiendo todo hasta un nivel intermedio, y después queda en vos seguir avanzando.
-En su foro y canal de Youtube tienen cosas nivel avanzado de todos los lenguajes.
 
 Full Stack Web= HTML, CSS, Bootstrap, Sass, JQuery, React, Redux, D3, Node, Express, Passport, Mocha, Tai, etc.. todo JAVASCRIPT. y Con MongoDB como Base de DAtos
 
@@ -56,8 +51,6 @@ https://www.hackerrank.com/
 https://www.codewars.com/
 
 ## 8- En Coursera
-
-Aca si van a tener que instalar cosas pero es posible hacerlo sin instalar nada con las herramientas que les pasó después pero los cursos son buenos.
 Al ingresar pongan Auditar para q sea gratis.
 
 1- Html-CSs- Bootstrap
