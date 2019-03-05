@@ -73,3 +73,8 @@ También se hace instalando cosas y si bien se pueden usar otras herramientas, l
 Por cierto, Ruby on Rails, Javascript, SQL
 
 https://www.theodinproject.com/dashboard
+
+## 10- Scrapping
+- In Python:
+  - Tutorial
+  1. https://www.youtube.com/watch?v=XQgXKtPSzUI
