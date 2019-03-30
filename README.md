@@ -78,3 +78,6 @@ https://www.theodinproject.com/dashboard
 - In Python:
   - Tutorial
   1. https://www.youtube.com/watch?v=XQgXKtPSzUI
+  
+  ## 11- Machine Learning
+  - End to end into ML : https://end-to-end-machine-learning.teachable.com/courses/enrolled 
